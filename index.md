@@ -1,20 +1,12 @@
 # [](#header-1)About Me
 
 
-![](http://d2.alternativeto.net/dist/icons/powershell_95549.png?width=200&height=200&mode=crop&upscale=false)  ![](https://www.python.org/static/opengraph-icon-200x200.png)
-
-[https://avatars3.githubusercontent.com/u/18133?v=4&s=200](https://www.linkedin.com/in/kevin-nishimura-258bbba4/).
-
+[LinkedIn](https://www.linkedin.com/in/kevin-nishimura-258bbba4/).
 [Github](https://github.com/KevinNish).
-
 [VDI Networks](www.vdinetworks.com).
 
 
-![](https://avatars3.githubusercontent.com/u/18133?v=4&s=200)  ![](https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png)
-
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm currently working as a Jr. System Administrator for VDI Networks based out of Hamilton, Ontario. We are a North America wide Managed Service Provider specializing in VDI and cloud based services. 
 
 
 
