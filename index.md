@@ -2,7 +2,9 @@
 
 
 [LinkedIn](https://www.linkedin.com/in/kevin-nishimura-258bbba4/).
+
 [Github](https://github.com/KevinNish).
+
 [VDI Networks](www.vdinetworks.com).
 
 
