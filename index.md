@@ -3,11 +3,14 @@
 
 ![](http://d2.alternativeto.net/dist/icons/powershell_95549.png?width=200&height=200&mode=crop&upscale=false)  ![](https://www.python.org/static/opengraph-icon-200x200.png)
 
-[LinkedIn](https://www.linkedin.com/in/kevin-nishimura-258bbba4/).
+[https://avatars3.githubusercontent.com/u/18133?v=4&s=200](https://www.linkedin.com/in/kevin-nishimura-258bbba4/).
 
 [Github](https://github.com/KevinNish).
 
 [VDI Networks](www.vdinetworks.com).
+
+
+![](https://avatars3.githubusercontent.com/u/18133?v=4&s=200)  ![](https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png)
 
 
 
