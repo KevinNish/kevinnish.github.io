@@ -5,7 +5,7 @@
 
 [Github](https://github.com/KevinNish).
 
-[VDI Networks](www.vdinetworks.com).
+[VDI Networks](http://www.vdinetworks.com).
 
 
 I'm currently working as a Jr. System Administrator for VDI Networks based out of Hamilton, Ontario. We are a North America wide Managed Service Provider specializing in VDI and cloud based services. I do everything from large scale Exchange and AD migrations,to building out custom environments to suit client needs. My main focus as of late has been revamping infrastructure to provide a scalable automated solution for future growth. I throughly enjoy creating process automation, writing infrastructre-as-code, and providing clients with a strategic partnership to leverage technology to grow their business.
