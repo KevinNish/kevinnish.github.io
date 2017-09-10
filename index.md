@@ -1,10 +1,12 @@
 # [](#header-1)About Me
-### Small image
 
-![](https://www.python.org/static/opengraph-icon-200x200.png)  ![](https://www.python.org/static/opengraph-icon-200x200.png)
+
+![](http://d2.alternativeto.net/dist/icons/powershell_95549.png?width=200&height=200&mode=crop&upscale=false)  ![](https://www.python.org/static/opengraph-icon-200x200.png)
 
 [LinkedIn](https://www.linkedin.com/in/kevin-nishimura-258bbba4/).
+
 [Github](https://github.com/KevinNish).
+
 [VDI Networks](www.vdinetworks.com).
 
 
