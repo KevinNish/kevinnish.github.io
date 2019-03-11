@@ -9,10 +9,9 @@
 
 
 Results-driven Systems Administrator with proven success in design, implementation, and management of enterprise-class
-systems with strong experience in data-center operations across Windows and Linux platforms. Effectively plan, install, configure, and manage IT infrastructures to maintain high availability and optimized performance aligned with the organization’s goals and requirements.
+systems with strong experience in data-center operations and cloud infrastructure across Windows and Linux platforms. Effectively plan, install, configure, and manage IT infrastructures to maintain high availability and optimized performance aligned with the organization’s goals and requirements.
 
-Outside of the office, I'm usually either building some kind of gadget with a RPI or ODROID, playing some video games with my friends, or playing my Martin 00-28
-
+If you would like to chat or collaborate on a project feel free to contact me via LinkedIn or Github.
 
 ## [](#header-2)Notable Projects:
 
